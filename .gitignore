@@ -1,0 +1,13 @@
+output
+
+*.log
+*.png
+*.jpg
+*.jpeg
+*.json
+*.csv
+*.txt
+*.yaml
+*.yml
+*.jsonl
+*.jsonnet
